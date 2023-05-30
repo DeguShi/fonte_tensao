@@ -45,10 +45,12 @@ Como Fazer?
 
 //utilizar, para concluir, ym regulador transistor NPN LM 317 matar o ripple ajust 3-12v
 
-//fazer com que a variacao seja sempre mais alta do que 12V
-//utilizar um diodo zenet para fazer esse corte
+// fazer com que a variacao seja sempre mais alta do que 12V
+// utilizar um diodo zenet para fazer esse corte
 // somnte depois disso, ao utilizar um transistor eh possivel baixar a tensao para 3V com um botaozinho.
 
 // colocar ao final um resistor que no pior caso seja 12v e 100mA, resistor Rc = 12v/ 0.1A = e deve sobreviver
+
+// Ln317
 
 
