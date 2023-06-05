@@ -65,7 +65,6 @@ Como Fazer?
 |Diodo Zener | 13V	| R$0,19 |
 |Potenciômetro	| 10k	| R$1,79 |
 |Transistor	| NPN	| R$0,29 |
-|-----------------------------------|
-| Valor total |  alguns reais(teste)|
+|    | Valor total    | X reais | 
 
 
