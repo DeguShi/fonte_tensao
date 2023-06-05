@@ -53,4 +53,13 @@ Como Fazer?
 
 // Ln317
 
-
+Transformador	12V	R$26,99
+Ponte de Diodos	1N4007	R$0,10 x 4 = R$0,40
+Capacitor	1000uF	R$0,79
+Resistor	1kΩ	R$0,05
+Resistor	820Ω	R$0,05
+Resistor	4k7Ω	R$0,05
+Led	5mm	R$0,25
+Diodo Zener	13V	R$0,19
+Potenciômetro	10k	R$1,79
+Transistor	NPN	R$0,29
