@@ -53,6 +53,13 @@ Como Fazer?
 
 // Ln317
 
+# Projeto do Esquemático da PCB no EAGLE
+
+![EAGLE](https://github.com/DeguShi/fonte_tensao/assets/63174449/5fa2fe71-1880-49b5-b851-64adad062d8c)
+
+
+![EAGLE - Fonte de Tensão](https://github.com/DeguShi/fonte_tensao/assets/63174449/f38924f6-60d4-4eec-bae7-0e1fc12d2f27)
+
 # Componentes:
 
 Os componentes do circuito são os seguintes:
