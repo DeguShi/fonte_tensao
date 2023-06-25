@@ -92,6 +92,9 @@ Os componentes do circuito são os seguintes:
 # responsaveis
 
 Felipe de Castro Azambuja - 14675437
+
 Gabriel de Andrade Abreu - 14571362
+
 Guilherme Pascoale Godoy - 14576277
+
 Isabela Beatriz Sousa Nunes Farias - 13823833
