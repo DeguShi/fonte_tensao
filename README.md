@@ -52,6 +52,9 @@ Como Fazer?
 // colocar ao final um resistor que no pior caso seja 12v e 100mA, resistor Rc = 12v/ 0.1A = e deve sobreviver
 
 // Ln317
+# Circuito no FALSTAD
+
+![circuit-20230625-1814](https://github.com/DeguShi/fonte_tensao/assets/136737102/46b71fd4-7749-4cef-997d-8118a78a2c39)
 
 # Projeto do Esquemático da PCB no EAGLE
 
