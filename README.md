@@ -1,7 +1,7 @@
 # Fonte de Tensão Regulável 3v - 12v (100mA)
 
 # Introdução
-fazer uma breve introdução
+O seguinte projeto, desenvolvido para a disciplina de Eletrônica para computação, tem como objetivo aplicar os conhecimentos adquiridos em aula para projetarmos uma fonte de tensão ajustável entre 3V e 12V e com corrente de 100mA.
 
 Objetivo:
 
