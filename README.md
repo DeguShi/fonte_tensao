@@ -62,7 +62,7 @@ Link: https://www.falstad.com/circuit/circuitjs.html
 
   ![EsquematicoEagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/3efc4ea9-b739-4d50-a8f9-ab60f313afb1)
 
-      ![Eagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/ab4cbca0-6561-4ba7-b037-2ef0b0091151)
+  ![Eagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/ab4cbca0-6561-4ba7-b037-2ef0b0091151)
 
 # Componentes:
 
