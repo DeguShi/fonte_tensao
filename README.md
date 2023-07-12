@@ -53,6 +53,47 @@ Os componentes do circuito são os seguintes:
 |Transistor	| NPN	| R$0,29 |
 |    | Valor total    | 43.16 reais | 
 
+# Cálculos 
+
+Capacitor:
+
+C = i * (2*f*Vpico*Ripple)^-1
+
+Ripple desejado é de aproximadamente 6.0%
+Valor de i obtido no falstad: 120.3mA
+Valor de Vpeak obtido também no falstad 16.9V
+Frequêcia de 60Hz
+
+C= (120.3*10^-3)*(120*16.9*0.06)^-1 
+C é aproximadamente de 1016uF, porém para fins comerciais adotamos 1mF;
+
+Resistores:
+
+Para o LED atribuimos uma resistência de 1000 ohms para que ficasse bem brilhoso, porém poderia ser um pouco maior para que aquecesse menos.
+
+Para o resistor que acompanha o Zener, seria necessária uma corrente de aproximadamente 4.5mA e a tensão medida no falstad era de 3.9V
+isso nos deu uma resistência de 866 ohms, regulada para 820 em valores comerciais, obtendo em média 4.5mA de corrente.
+
+Tensão Final:
+
+O zener limita a tensão para 13V e, ao passar pelo transistor (no falstad ele ocorre depois de passar pelo potenciômetro) perde 0.7V, resultando em 12.3 (após testar o trabalho físico alteramos o falstad e agora ele passa 12.2).
+
+Quando a tensão a ser obtida é 3V:
+
+Isso acontece quando o potenciômetro está maximizado em 10kohms.
+
+12.2 - Vpot = 3, o que daria 9.2V, porém no falstad obtivemos 9.771V
+
+Para o valor de 9.771V o valor de tensão obtida na saída foi de aproximadamente  2.8V quando o potenciômetro está em 10kohm. 
+É fundamental, nesse caso, a existencia de um resistor paralelo com a saida (carga) e consequentemente em série com o potenciômetro para evitar que toda a tensão seja consumida por esse.
+
+o valor dessa resistência era de 4.7k incialmente, porém após a testagem do circuito na protoboard verificou-se a necessidade de diminuí-la, sendo um resistor de 3.3k o escolhido para tal.
+
+Quando a tensão a ser obtida for 12V:
+
+Isso acontece quando o potenciômetro está em 50ohms, seu valor mínimo.
+Nesse caso, em teoria a tensão completa que ainda está no potenciômetro e no resistor em série a ele é liberada, sendo uma saída de 12.3V (após a mudança de resistor a saída passou a ser 12.2V).
+
 # Integrantes:
 
 Felipe de Castro Azambuja - 14675437
