@@ -60,9 +60,9 @@ Link: https://www.falstad.com/circuit/circuitjs.html
 
 # Projeto do Esquemático da PCB no EAGLE
 
-![EsquematicoEagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/3efc4ea9-b739-4d50-a8f9-ab60f313afb1)
+  ![EsquematicoEagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/3efc4ea9-b739-4d50-a8f9-ab60f313afb1)
 
-![Eagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/ab4cbca0-6561-4ba7-b037-2ef0b0091151)
+      ![Eagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/ab4cbca0-6561-4ba7-b037-2ef0b0091151)
 
 # Componentes:
 
@@ -74,7 +74,7 @@ Os componentes do circuito são os seguintes:
 
 3. Varistor: é outro dispositivo de segurança que, em conjunto com o fusível, protege o circuito contra sobretensão proveniente da rede elétrica.
 
-4. Ponte de diodo: é utilizada para permitir que o circuito seja alimentado pela corrente em ambos os ciclos da corrente alternada.
+4. Diodo retificador: é utilizada para permitir que o circuito seja alimentado pela corrente em ambos os ciclos da corrente alternada.
 
 5. Capacitor: tem a função de armazenar carga durante os ciclos da corrente alternada, liberando corrente quando a tensão interna é maior que a tensão proveniente da fonte. Ele se descarrega quando ocorre a inversão do ciclo. Para este projeto, foi escolhido um capacitor com um valor de capacitância de 458μF, visando um ripple de 10%. Como não existem capacitores com esse valor exato, foi selecionado um capacitor comercial próximo, com valor de 470μF.
 
@@ -89,18 +89,18 @@ Os componentes do circuito são os seguintes:
 | Componentes |	Info_extra | Valor |
 |-------------|------------|-------|
 |Transformador|     12 V   | 39,50 |
-|Ponte de Diodos |	1N4007 |R$0,10 x 4 = R$0,40 |
+|Diodo Retificador |	1N4007 |R$0,10 x 2 = R$0,20 |
 |Capacitor	| 1000uF	| R$0,79 |
 |Resistor	| 1kΩ	| R$0,05 |
 |Resistor	| 820Ω	| R$0,05 |
-|Resistor	| 4k7Ω	| R$0,05 |
+|Resistor	| 3k3Ω	| R$0,05 |
 |Led	| 5mm	| R$0,25 |
 |Diodo Zener | 13V	| R$0,19 |
 |Potenciômetro	| 10k	| R$1,79 |
 |Transistor	| NPN	| R$0,29 |
-|    | Valor total    | X reais | 
+|    | Valor total    | 43.16 reais | 
 
-# responsaveis
+# Integrantes:
 
 Felipe de Castro Azambuja - 14675437
 
