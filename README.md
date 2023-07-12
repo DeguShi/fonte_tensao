@@ -5,7 +5,8 @@ O seguinte projeto, desenvolvido para a disciplina de Eletrônica para computaç
 
 # Circuito no FALSTAD
 
-![circuit-20230712-1108](https://github.com/DeguShi/fonte_tensao/assets/63174449/bea7bd8d-edde-4d9b-b748-8e8b9f0da828)
+![circuit-20230712-1205](https://github.com/DeguShi/fonte_tensao/assets/63174449/8fa7c1db-0263-4554-b645-c20487837946)
+
 
 Link: https://www.falstad.com/circuit/circuitjs.html
 
