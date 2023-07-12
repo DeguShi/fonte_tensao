@@ -60,7 +60,8 @@ Link: https://www.falstad.com/circuit/circuitjs.html
 
 # Projeto do Esquemático da PCB no EAGLE
 
-  ![EsquematicoEagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/3efc4ea9-b739-4d50-a8f9-ab60f313afb1)
+ ![EsquematicoEagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/3901130e-a663-4ef7-a4eb-f32c02dfdd5a)
+
 
   ![Eagle](https://github.com/DeguShi/fonte_tensao/assets/63174449/ab4cbca0-6561-4ba7-b037-2ef0b0091151)
 
