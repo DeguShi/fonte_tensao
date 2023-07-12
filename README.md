@@ -65,7 +65,7 @@ C é aproximadamente de 1016uF, porém para fins comerciais adotamos 1mF;
 
 Resistores:
 
-Para o LED atribuimos uma resistência de 1000 ohms para que ficasse bem brilhoso, porém poderia ser um pouco maior para que aquecesse menos.
+Para o LED atribuimos uma resistência de 3300 ohms (após a apresentação).
 
 Para o resistor que acompanha o Zener, seria necessária uma corrente de aproximadamente 4.5mA e a tensão medida no falstad era de 3.9V
 isso nos deu uma resistência de 866 ohms, regulada para 820 em valores comerciais, obtendo em média 4.5mA de corrente.
