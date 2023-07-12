@@ -8,7 +8,7 @@ O seguinte projeto, desenvolvido para a disciplina de Eletrônica para computaç
 ![circuit-20230712-1205](https://github.com/DeguShi/fonte_tensao/assets/63174449/8fa7c1db-0263-4554-b645-c20487837946)
 
 
-Link: https://www.falstad.com/circuit/circuitjs.html
+Link: [https://www.falstad.com/circuit/circuitjs.html](https://tinyurl.com/2e6rqftl)
 
 # Projeto do Esquemático da PCB no EAGLE
 
