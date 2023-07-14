@@ -49,7 +49,11 @@ Os componentes do circuito são os seguintes:
 |Transistor	| NPN	| R$0,29 |
 |    | Valor total    | 43.16 reais | 
 
+# Vídeo da Fonte
+
+
 # Cálculos 
+https://drive.google.com/drive/folders/1RZTbtFSSCIvw1pUywHkZ3LzPu0Y7NzY4?usp=drive_link
 
 Capacitor:
 
