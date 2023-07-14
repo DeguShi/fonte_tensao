@@ -50,10 +50,9 @@ Os componentes do circuito são os seguintes:
 |    | Valor total    | 43.16 reais | 
 
 # Vídeo da Fonte
-
+https://drive.google.com/drive/folders/1RZTbtFSSCIvw1pUywHkZ3LzPu0Y7NzY4?usp=drive_link
 
 # Cálculos 
-https://drive.google.com/drive/folders/1RZTbtFSSCIvw1pUywHkZ3LzPu0Y7NzY4?usp=drive_link
 
 Capacitor:
 
